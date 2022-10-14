@@ -1,10 +1,10 @@
-### Olá! Me chamo Vanessa Barbosa!😊
+<h1 align="left">Oii!!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Eu sou a Vanessa Barbosa. Uma estudante de tecnologia em busca do êxito. Seja bem-vindo(a) ao meu perfil!😊</h1>
 
-### Seja bem vindo(a)!👋
+<div>
+  <a href = "mailto:dev_vanessabarbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)](https://outlook.live.com/mail/0/"></a>
+<a href="https://instagram.com/devbarbosaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-<a href = "mailto:dev_vanessabarbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/"></a>
-<a href="https://instagram.com/devbarbosaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-##
 <div align="center">
   <a href="https://github.com/Vanessaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbarbosaa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
