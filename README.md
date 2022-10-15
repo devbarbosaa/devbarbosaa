@@ -17,8 +17,12 @@
   <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Vanessa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202210/338224_628GhSar.png">
 </div>
- <br><br/>
+  <br><br/>
+  <br><br/>
+  <br><br/>
+</div>
   <h3>Contato:<h3/>
  <div>
   <a href = "mailto:dev_vanessabarbosa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)](https://outlook.live.com/mail/0/"></a>
