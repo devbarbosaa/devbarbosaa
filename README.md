@@ -26,17 +26,8 @@
   <br><br/>
   
   <h3>Últimos vídeos:<h3/>
-    <h4>Calculadora IMC:<h4/>
+    <h4>Calculadora IMC:  https://screencast-o-matic.com/watch/c3XeFdVupgG<h4/>
     
-
-https://user-images.githubusercontent.com/115827014/199814173-f8a69b32-af32-42a8-8968-c588981be0c4.mp4
-
-
-
-
-<h4/>
-    <br><br/>
-  <br><br/>
   <hr/>
   <h3>Contato:<h3/>
  <div>
