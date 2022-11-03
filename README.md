@@ -26,8 +26,7 @@
   <br><br/>
   
   <h3>Últimos vídeos:<h3/>
-    <h4>🔸Calculadora IMC com HTML e CSS:  https://screencast-o-matic.com/watch/c3XeFdVupgG<h4/>
-    
+  <h4>🔸Calculadora IMC com HTML e CSS: https://screencast-o-matic.com/watch/c3XeFdVupgG<h4/>
   <hr/>
   <h3>Contato:<h3/>
  <div>
